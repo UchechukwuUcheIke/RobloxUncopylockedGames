@@ -1,0 +1,840 @@
+Starting processing, please wait a bit...
+Checking for Script
+Script at DataModel/Workspace/Holo/Decoration/Spinning Logo/Script
+Script at DataModel/StarterPlayer/StarterCharacterScripts/RemoveFF
+LocalScript at DataModel/StarterGui/ClientRays
+LocalScript at DataModel/StarterGui/Holo/HoloLocalCore
+ModuleScript at DataModel/ReplicatedStorage/LoadLibrary/RbxUtility
+Script at DataModel/ServerScriptService/Player/RankOverHead
+Script at DataModel/ServerScriptService/Player/Leaderboard
+Script at DataModel/ServerScriptService/Game/HD Admin/Settings/Loader
+ModuleScript at DataModel/ServerScriptService/Game/HD Admin/Settings
+ModuleScript at DataModel/ServerScriptService/Game/HD Admin/CustomFeatures/Server/Modules/Commands
+ModuleScript at DataModel/ServerScriptService/Game/HD Admin/CustomFeatures/Client/Modules/ClientCommands
+ModuleScript at DataModel/ServerScriptService/Game/HD Admin/CustomFeatures/Client/SharedModules/Events
+Script at DataModel/ServerScriptService/Game/HoloCore
+Script at DataModel/ServerScriptService/Weapons/ServerManager
+ModuleScript at DataModel/ServerStorage/Weapons/SMG/Settings
+LocalScript at DataModel/ServerStorage/Weapons/SMG/Cursor
+LocalScript at DataModel/ServerStorage/Weapons/SMG/Client
+Script at DataModel/ServerStorage/Weapons/Sword/SwordScript
+LocalScript at DataModel/ServerStorage/Weapons/Sword/MouseIcon
+ModuleScript at DataModel/ServerStorage/Weapons/TK SMG/Settings
+LocalScript at DataModel/ServerStorage/Weapons/TK SMG/Cursor
+LocalScript at DataModel/ServerStorage/Weapons/TK SMG/Client
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/End/Teleport
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/End/Teleport
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/Lava/KillBrick/RespawnPlayer
+Script at DataModel/ServerStorage/Obbies/Obby1/Section/End/Teleport
+Script at DataModel/ServerStorage/Maps/Spearhead/Gate/Script
+Script at DataModel/ServerStorage/Maps/Spearhead/Gate/Script
+Script at DataModel/ServerStorage/Maps/Deathtrap/Part/Script
+Adding Files
+Instruction: Adding metadata /Workspace
+Executing AddToTree { name: "Workspace" }
+Executing CreateFolder { folder: "Workspace" }
+Instruction: Adding Folder Workspace/Holo
+Executing CreateFolder { folder: "Workspace\\Holo" }
+Executing CreateFile { filename: "Workspace\\Holo\\init.meta.json" }
+Instruction: Adding Folder Workspace\Holo/Decoration
+Executing CreateFolder { folder: "Workspace\\Holo\\Decoration" }
+Executing CreateFile { filename: "Workspace\\Holo\\Decoration\\init.meta.json" }
+Instruction: Adding metadata Workspace\Holo\Decoration/Spinning Logo
+Executing CreateFolder { folder: "Workspace\\Holo\\Decoration\\Spinning Logo" }
+Executing CreateFile { filename: "Workspace\\Holo\\Decoration\\Spinning Logo\\init.meta.json" }
+Instruction: Adding Script Workspace\Holo\Decoration\Spinning Logo/Script
+Executing CreateFile { filename: "Workspace\\Holo\\Decoration\\Spinning Logo\\Script.server.luau" }
+Adding instructions for StarterPlayer
+Executing CreateFolder { folder: "StarterPlayer" }
+Executing AddToTree { name: "StarterPlayer" }
+Instruction: Adding metadata StarterPlayer/StarterCharacterScripts
+Executing CreateFolder { folder: "StarterPlayer\\StarterCharacterScripts" }
+Instruction: Adding Script StarterPlayer\StarterCharacterScripts/RemoveFF
+Executing CreateFile { filename: "StarterPlayer\\StarterCharacterScripts\\RemoveFF.server.luau" }
+Instruction: Adding metadata /StarterGui
+Executing AddToTree { name: "StarterGui" }
+Executing CreateFolder { folder: "StarterGui" }
+Instruction: Adding LocalScript StarterGui/ClientRays
+Executing CreateFile { filename: "StarterGui\\ClientRays.client.luau" }
+Instruction: Adding metadata StarterGui/Holo
+Executing CreateFolder { folder: "StarterGui\\Holo" }
+Executing CreateFile { filename: "StarterGui\\Holo\\init.meta.json" }
+Instruction: Adding LocalScript StarterGui\Holo/HoloLocalCore
+Executing CreateFile { filename: "StarterGui\\Holo\\HoloLocalCore.client.luau" }
+Executing CreateFile { filename: "StarterGui\\Holo\\HoloLocalCore.meta.json" }
+Instruction: Adding metadata /ReplicatedStorage
+Executing AddToTree { name: "ReplicatedStorage" }
+Executing CreateFolder { folder: "ReplicatedStorage" }
+Instruction: Adding Folder ReplicatedStorage/LoadLibrary
+Executing CreateFolder { folder: "ReplicatedStorage\\LoadLibrary" }
+Executing CreateFile { filename: "ReplicatedStorage\\LoadLibrary\\init.meta.json" }
+Instruction: Adding ModuleScript ReplicatedStorage\LoadLibrary/RbxUtility
+Executing CreateFile { filename: "ReplicatedStorage\\LoadLibrary\\RbxUtility.luau" }
+Instruction: Adding metadata /ServerScriptService
+Executing AddToTree { name: "ServerScriptService" }
+Executing CreateFolder { folder: "ServerScriptService" }
+Instruction: Adding Folder ServerScriptService/Player
+Executing CreateFolder { folder: "ServerScriptService\\Player" }
+Executing CreateFile { filename: "ServerScriptService\\Player\\init.meta.json" }
+Instruction: Adding Script ServerScriptService\Player/RankOverHead
+Executing CreateFile { filename: "ServerScriptService\\Player\\RankOverHead.server.luau" }
+Executing CreateFile { filename: "ServerScriptService\\Player\\RankOverHead.meta.json" }
+Instruction: Adding Script ServerScriptService\Player/Leaderboard
+Executing CreateFile { filename: "ServerScriptService\\Player\\Leaderboard.server.luau" }
+Instruction: Adding Folder ServerScriptService/Game
+Executing CreateFolder { folder: "ServerScriptService\\Game" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\init.meta.json" }
+Instruction: Adding Folder ServerScriptService\Game/HD Admin
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\init.meta.json" }
+Instruction: Adding ModuleScript ServerScriptService\Game\HD Admin/Settings
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\Settings" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\Settings\\init.luau" }
+Instruction: Adding Script ServerScriptService\Game\HD Admin\Settings/Loader
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\Settings\\Loader.server.luau" }
+Instruction: Adding metadata ServerScriptService\Game\HD Admin/CustomFeatures
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\init.meta.json" }
+Instruction: Adding Folder ServerScriptService\Game\HD Admin\CustomFeatures/Server
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Server" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Server\\init.meta.json" }
+Instruction: Adding Folder ServerScriptService\Game\HD Admin\CustomFeatures\Server/Modules
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Server\\Modules" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Server\\Modules\\init.meta.json" }
+Instruction: Adding ModuleScript ServerScriptService\Game\HD Admin\CustomFeatures\Server\Modules/Commands
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Server\\Modules\\Commands.luau" }
+Instruction: Adding Folder ServerScriptService\Game\HD Admin\CustomFeatures/Client
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\init.meta.json" }
+Instruction: Adding Folder ServerScriptService\Game\HD Admin\CustomFeatures\Client/Modules
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\Modules" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\Modules\\init.meta.json" }
+Instruction: Adding ModuleScript ServerScriptService\Game\HD Admin\CustomFeatures\Client\Modules/ClientCommands
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\Modules\\ClientCommands.luau" }
+Instruction: Adding Folder ServerScriptService\Game\HD Admin\CustomFeatures\Client/SharedModules
+Executing CreateFolder { folder: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\SharedModules" }
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\SharedModules\\init.meta.json" }
+Instruction: Adding ModuleScript ServerScriptService\Game\HD Admin\CustomFeatures\Client\SharedModules/Events
+Executing CreateFile { filename: "ServerScriptService\\Game\\HD Admin\\CustomFeatures\\Client\\SharedModules\\Events.luau" }
+Instruction: Adding Script ServerScriptService\Game/HoloCore
+Executing CreateFile { filename: "ServerScriptService\\Game\\HoloCore.server.luau" }
+Instruction: Adding Folder ServerScriptService/Weapons
+Executing CreateFolder { folder: "ServerScriptService\\Weapons" }
+Executing CreateFile { filename: "ServerScriptService\\Weapons\\init.meta.json" }
+Instruction: Adding Script ServerScriptService\Weapons/ServerManager
+Executing CreateFile { filename: "ServerScriptService\\Weapons\\ServerManager.server.luau" }
+Instruction: Adding metadata /ServerStorage
+Executing AddToTree { name: "ServerStorage" }
+Executing CreateFolder { folder: "ServerStorage" }
+Instruction: Adding Folder ServerStorage/Weapons
+Executing CreateFolder { folder: "ServerStorage\\Weapons" }
+Executing CreateFile { filename: "ServerStorage\\Weapons\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Weapons/SMG
+Executing CreateFolder { folder: "ServerStorage\\Weapons\\SMG" }
+Executing CreateFile { filename: "ServerStorage\\Weapons\\SMG\\init.meta.json" }
+Instruction: Adding ModuleScript ServerStorage\Weapons\SMG/Settings
+Executing CreateFile { filename: "ServerStorage\\Weapons\\SMG\\Settings.luau" }
+Instruction: Adding LocalScript ServerStorage\Weapons\SMG/Cursor
+Executing CreateFile { filename: "ServerStorage\\Weapons\\SMG\\Cursor.client.luau" }
+Instruction: Adding LocalScript ServerStorage\Weapons\SMG/Client
+Executing CreateFile { filename: "ServerStorage\\Weapons\\SMG\\Client.client.luau" }
+Instruction: Adding metadata ServerStorage\Weapons/Sword
+Executing CreateFolder { folder: "ServerStorage\\Weapons\\Sword" }
+Executing CreateFile { filename: "ServerStorage\\Weapons\\Sword\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Weapons\Sword/SwordScript
+Executing CreateFile { filename: "ServerStorage\\Weapons\\Sword\\SwordScript.server.luau" }
+Instruction: Adding LocalScript ServerStorage\Weapons\Sword/MouseIcon
+Executing CreateFile { filename: "ServerStorage\\Weapons\\Sword\\MouseIcon.client.luau" }
+Instruction: Adding metadata ServerStorage\Weapons/TK SMG
+Executing CreateFolder { folder: "ServerStorage\\Weapons\\TK SMG" }
+Executing CreateFile { filename: "ServerStorage\\Weapons\\TK SMG\\init.meta.json" }
+Instruction: Adding ModuleScript ServerStorage\Weapons\TK SMG/Settings
+Executing CreateFile { filename: "ServerStorage\\Weapons\\TK SMG\\Settings.luau" }
+Instruction: Adding LocalScript ServerStorage\Weapons\TK SMG/Cursor
+Executing CreateFile { filename: "ServerStorage\\Weapons\\TK SMG\\Cursor.client.luau" }
+Instruction: Adding LocalScript ServerStorage\Weapons\TK SMG/Client
+Executing CreateFile { filename: "ServerStorage\\Weapons\\TK SMG\\Client.client.luau" }
+Instruction: Adding Folder ServerStorage/Obbies
+Executing CreateFolder { folder: "ServerStorage\\Obbies" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies/Obby1
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1/Section
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/End
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\End" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\End/Teleport
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\Teleport.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1/Section
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/End
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\End" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\End/Teleport
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\Teleport.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1/Section
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/Lava
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section\Lava/KillBrick
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\Lava\KillBrick/RespawnPlayer
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\Lava\\KillBrick\\RespawnPlayer.server.luau" }
+Instruction: Adding metadata ServerStorage\Obbies\Obby1\Section/End
+Executing CreateFolder { folder: "ServerStorage\\Obbies\\Obby1\\Section\\End" }
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Obbies\Obby1\Section\End/Teleport
+Executing CreateFile { filename: "ServerStorage\\Obbies\\Obby1\\Section\\End\\Teleport.server.luau" }
+Instruction: Adding Folder ServerStorage/Maps
+Executing CreateFolder { folder: "ServerStorage\\Maps" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Maps/Spearhead
+Executing CreateFolder { folder: "ServerStorage\\Maps\\Spearhead" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\Spearhead\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Maps\Spearhead/Gate
+Executing CreateFolder { folder: "ServerStorage\\Maps\\Spearhead\\Gate" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\Spearhead\\Gate\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Maps\Spearhead\Gate/Script
+Executing CreateFile { filename: "ServerStorage\\Maps\\Spearhead\\Gate\\Script.server.luau" }
+Instruction: Adding metadata ServerStorage\Maps\Spearhead/Gate
+Executing CreateFolder { folder: "ServerStorage\\Maps\\Spearhead\\Gate" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\Spearhead\\Gate\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Maps\Spearhead\Gate/Script
+Executing CreateFile { filename: "ServerStorage\\Maps\\Spearhead\\Gate\\Script.server.luau" }
+Instruction: Adding metadata ServerStorage\Maps/Deathtrap
+Executing CreateFolder { folder: "ServerStorage\\Maps\\Deathtrap" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\Deathtrap\\init.meta.json" }
+Instruction: Adding metadata ServerStorage\Maps\Deathtrap/Part
+Executing CreateFolder { folder: "ServerStorage\\Maps\\Deathtrap\\Part" }
+Executing CreateFile { filename: "ServerStorage\\Maps\\Deathtrap\\Part\\init.meta.json" }
+Instruction: Adding Script ServerStorage\Maps\Deathtrap\Part/Script
+Executing CreateFile { filename: "ServerStorage\\Maps\\Deathtrap\\Part\\Script.server.luau" }
+Done! Check rbxlx-to-rojo.log for a full log.
